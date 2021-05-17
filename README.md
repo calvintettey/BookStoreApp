@@ -1,7 +1,7 @@
 # BookStoreApp
 
 ### A book store app based on the design created by Piko on Dribbble
-This is a book store app concept with detailed overview of books and their details () statistics. In this concept a user can view books, the author, description, rating, reading times, as well as how many people have read the book.
+This is a book store app concept with detailed overview of books, best selling lists, the latest books and books coming out soon. In this concept a user can view book details like the author, the description, rating, reading times, as well as how many people have read the book.
 
 ## Built With
 * React Native
