@@ -594,7 +594,7 @@ const Home = ({ navigation }) => {
 
               {/* Genre */}
               <View style={{ flexDirection: "row", marginTop: SIZES.base }}>
-                {item.genre.includes("Adventure") && (
+                {item.genre.includes("Adventure", "Fantasy") && (
                   <View
                     style={{
                       justifyContent: "center",
@@ -607,11 +607,11 @@ const Home = ({ navigation }) => {
                     }}
                   >
                     <Text style={{ ...FONTS.body3, color: COLORS.lightGreen }}>
-                      Adventure
+                      Adventure-Fantasy
                     </Text>
                   </View>
                 )}
-                {item.genre.includes("Romance") && (
+                {item.genre.includes("Romance", "Dama") && (
                   <View
                     style={{
                       justifyContent: "center",
@@ -624,11 +624,11 @@ const Home = ({ navigation }) => {
                     }}
                   >
                     <Text style={{ ...FONTS.body3, color: COLORS.lightRed }}>
-                      Romance
+                      Romance-Drama
                     </Text>
                   </View>
                 )}
-                {item.genre.includes("Drama") && (
+                {item.genre.includes("Identity") && (
                   <View
                     style={{
                       justifyContent: "center",
@@ -641,7 +641,7 @@ const Home = ({ navigation }) => {
                     }}
                   >
                     <Text style={{ ...FONTS.body3, color: COLORS.lightBlue }}>
-                      Drama
+                      Identity
                     </Text>
                   </View>
                 )}
