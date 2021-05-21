@@ -6,6 +6,9 @@ This is a book store app concept with a detailed overview of books, best selling
 * React Native
 * Expo
 
+## Demo
+
+![Book Store App Demo](assets/scrnshts/bookstoreappdemo.gif)
 
 ## Screenshots
 
