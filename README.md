@@ -9,9 +9,7 @@ This is a book store app concept with a detailed overview of books, best selling
 
 ## Screenshots
 
-![Expense Tracker App Scrnsht 1](assets/scrnshts/bkstrscrnsht1.jpg)
-![Expense Tracker App Scrnsht 2](assets/scrnshts/bkstrscrnsht2.jpg)
-![Expense Tracker App Scrnsht 3](assets/scrnshts/bkstrscrnsht3.jpg)
+![Expense Tracker App Scrnsht](assets/scrnshts/scrnsht.png)
 
 
 ## Dribbble Link 
